@@ -1,3 +1,12 @@
+## Installation
+
+To install, clone this repo and run the following commands from the root directory:
+
+```
+npm install
+gulp serve
+```
+
 ## Drag to Paint Functionality
 
 The original implementation looked like this:
